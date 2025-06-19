@@ -47,8 +47,8 @@ This dashboard aims to:
 | Total Amount Received      | $473.1M         |
 | Good Loans (by count)      | 33K (86.18%)    |
 | Bad Loans (by count)       | 5K (13.82%)     |
-| Avg. Interest Rate         | 13.88% (Bad Loans) / 12.05% (Overall) |
-| Avg. Debt-to-Income (DTI)  | 14.00% (Bad Loans) / 13.33% (Overall) |
+| Avg. Interest Rate         | 12.05% (Overall) |
+| Avg. Debt-to-Income (DTI)  | 13.33% (Overall) |
 
 ---
 
