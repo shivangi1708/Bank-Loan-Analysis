@@ -70,6 +70,15 @@ This dashboard aims to:
 - Can be extended to support **predictive analytics** or **fraud detection**
 
 ---
+🖼️ Dashboard Screenshots
+Summary Page
+![Summary Dashboard](./images/Summary.png)
+
+Overview Page
+![Overview Dashboard](./images/Overview.png)
+
+Details Page
+![Detail Dashboard](./images/Details.png)
 
 ## 🎓 Acknowledgments
 
